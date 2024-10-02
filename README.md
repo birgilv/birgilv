@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Birgitte 👋</h1> 
 <h2 align="center">B.Sc Computer Science Student</h2>
 
-<p><img " src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" /></p>
 <!--
 **birgilv/birgilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
