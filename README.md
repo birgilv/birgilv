@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Birgitte 👋
+### B.Sc Computer Science Student
 
 <!--
 **birgilv/birgilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
