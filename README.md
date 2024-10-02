@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Birgitte 👋</h1> 
 <h2 align="center">B.Sc Computer Science Student</h2>
 
+<p><img " src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <!--
 **birgilv/birgilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
