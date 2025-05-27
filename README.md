@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Birgitte 👋</h1> 
-<h2 align="center">B.Sc Computer Science Student</h2>
 
+<p>B.Sc Computer Science Student</p> <br>
 🌐 Portfolio <a href="https://birgilv.github.io/" target="_blank">birgilv.github.io</a> <br>
 💼 LinkedIn <a href="https://www.linkedin.com/in/birgitte-vik-a043a5b9/" target="_blank">Birgitte Vik</a>
 
