@@ -2,8 +2,8 @@
 <h2 align="center">B.Sc Computer Science Student</h2>
 
 <p align="center">
-  <a href="https://birgilv.github.io/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/birgitte-lovise-vik-8a3842225/(https://www.linkedin.com/in/birgitte-vik-a043a5b9/)" target="_blank">💼 LinkedIn</a>
+  <a href="https://birgilv.github.io/" target="_blank">🌐 Portfolio</a> \newline
+  <a href="https://www.linkedin.com/in/birgitte-vik-a043a5b9/" target="_blank">💼 LinkedIn</a>
 </p>
 
 <p align="center">
