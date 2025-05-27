@@ -4,11 +4,11 @@
 <p align="center">
   🌐Portfolio 
   <a href="https://birgilv.github.io/" target="_blank">
-    <strong>birgilv.github.io</strong>
+    birgilv.github.io
   </a> &nbsp;|&nbsp;
   💼 LinkedIn 
   <a href="https://www.linkedin.com/in/birgitte-vik-a043a5b9/" target="_blank">
-    <strong>Birgitte Vik</strong>
+    Birgitte Vik
   </a>
 </p>
 
