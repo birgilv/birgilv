@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Birgitte 👋</h1>
-<h3 align="center">B.Sc Computer Science Student</h3>
+<h3 align="center">M.Sc Computer Science Student</h3>
 
 <p align="center">
   🌐Portfolio 
