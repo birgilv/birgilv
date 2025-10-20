@@ -2,10 +2,6 @@
 <h3 align="center">M.Sc Computer Science Student</h3>
 
 <p align="center">
-  🌐Portfolio 
-  <a href="https://birgilv.github.io/" target="_blank">
-    birgilv.github.io
-  </a> &nbsp;|&nbsp;
   💼 LinkedIn 
   <a href="https://www.linkedin.com/in/birgitte-vik-a043a5b9/" target="_blank">
     Birgitte Vik
